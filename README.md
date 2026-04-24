@@ -1,5 +1,5 @@
 # Samay Shetty
-## Glowlogics Project
+## Glowlogics Project 3
 
 ---
 
