@@ -258,8 +258,8 @@ This section contains visualizations and results generated from the project.
 
 ## 🔍 Visualizations
 
-- 📈 ![Clustering](output/clustering.png)
-- 🏥 ![Distribution](output/distribution.png)
+- 📈Clustering ![Clustering](output/clustering.png)
+- 🏥Distribution ![Distribution](output/distribution.png)
 - 🔢  Customer Segmentation CSV OUTPUT
 
 This Customer Segmentation project successfully identifies distinct customer groups within a mall dataset using K-Means Clustering. By testing multiple feature combinations and using both the Elbow Method and Silhouette Score to validate cluster counts, the project delivers reliable, interpretable segments.
