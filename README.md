@@ -5,7 +5,6 @@
 
 # Customer Segmentation using K-Means Clustering
 
-## Project Overview
 
 This project applies the K-Means Clustering algorithm to segment mall customers into distinct groups based on their age, annual income, and spending behavior. By identifying patterns in customer data, businesses can better understand their customer base and design targeted marketing strategies for each segment.
 
